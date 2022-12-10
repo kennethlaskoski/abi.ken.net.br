@@ -1,9 +1,9 @@
 # [https://abi.ken.net.br](https://github.com/kennethlaskoski/abi.ken.net.br)
 
-This repository contains a library, written in Swift, which I used to build my resume in [api](https://api.ken.net.br) form.
+This repository contains a library, written in Swift, which I used to build my [resume as an api](https://api.ken.net.br).
 
-##
-#### ⚠️   DISCLAIMER: *NOT* for prodution 🚧
+<br/>
 
-This informal code does not take into account aspects such as security, 
-privacy etc, demanded for deployment in a production environment.
+## DISCLAIMER   
+This informal code does not take into account efficiency, safety, security, privacy etc.   
+My projects as a [Real Programmer](https://xkcd.com/378/) can be found [here](https://laskoski.com.br).
