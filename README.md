@@ -1,6 +1,6 @@
-# [https://abi.ken.net.br](https://github.com/kennethlaskoski/abi.ken.net.br)
+# https://abi.ken.net.br
 
-This repository contains a library, written in Swift, which I used to build my [resume as an api](https://api.ken.net.br).
+This repository contains the KL Swift module, used by my [resume as an api](https://api.ken.net.br).
 
 <br/>
 
